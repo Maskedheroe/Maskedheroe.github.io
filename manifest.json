@@ -1,0 +1,25 @@
+{
+  "name": "方啸宇",
+  "short_name": "方啸宇",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "方啸宇的个人主页",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./avatar.ico",
+      "sizes": "144x144",
+      "type": "image/ico"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    },
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+    }
+  ]
+}
